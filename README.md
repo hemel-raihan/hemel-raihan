@@ -76,7 +76,7 @@ Senior Software Engineer with strong experience in **designing and maintaining e
 - Nationwide bike pre-booking platform
 - Integrated dealer allocation system
 
-**Tech:** Laravel, Vue.js, SQL Server
+**Tech:** Nuxt JS, Laravel, Vue.js, SQL Server
 
 ---
 
